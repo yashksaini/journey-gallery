@@ -15,6 +15,16 @@
 ## Introduction
 Journey Gallery is a web application built using HTML, CSS, and JavaScript, with WebSQL for client-side data storage. It allows users to create a month-wise calendar where they can add images by clicking on specific dates. The website has two screens: one for the calendar view and another for displaying all the images in a gallery, organized date-wise.
 
+---
+
+**⚠️ Warning: WebSQL Deprecated ⚠️**
+
+Please be aware that WebSQL is no longer supported. Consequently, the project will not function as it did previously. Consider migrating to alternative storage solutions such as IndexedDB to ensure compatibility and continued operation.
+
+Thank you for your understanding.
+
+---
+
 ## Demo
 
 
